@@ -4,7 +4,7 @@ Pytorch implementations of deep learning methods for spatial genomic data.
 
 This project is intended to harmonize tasks for published methods and speed-up deep learning-based spatial genomics methods development.
 
-For detailed documentation see the [project website](github.pages.link)
+For detailed documentation see the [project website](https://estorrs.github.io/deep-spatial-genomics/)
 
 ## Install
 
