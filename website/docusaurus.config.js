@@ -8,13 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'https://estorrs.github.io/deep-spatial-genomics/',
+  baseUrl: '/deep-spatial-genomics/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'estorrs', // Usually your GitHub org/user name.
+  projectName: 'estorrs.github.io/deep-spatial-genomics', // Usually your repo name.
+  trailingSlash: false,
 
   presets: [
     [

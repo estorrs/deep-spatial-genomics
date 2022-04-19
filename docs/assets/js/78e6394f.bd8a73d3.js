@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebsite=self.webpackChunkwebsite||[]).push([[132],{6627:function(e){e.exports=JSON.parse('{"allTagsPath":"/deep-spatial-genomics/blog/tags","name":"facebook","count":1,"permalink":"/deep-spatial-genomics/blog/tags/facebook"}')}}]);
