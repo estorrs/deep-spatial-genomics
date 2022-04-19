@@ -6,6 +6,21 @@ This project is intended to harmonize tasks for published methods and speed-up d
 
 For detailed documentation see the [project website](github.pages.link)
 
+## Install
+
+```bash
+pip install deep-spatial-genomics
+```
+
+Note: If you are running into installation issues due to the scanpy dependency you can install with Conda via the `env.yaml` file. Note that if your version of CUDA is not x.x you will need to specify the correct cudatoolkit version in the `env.yaml` file.
+
+```bash
+conda env create -f env.yaml
+conda activate deep-spatial-genomics
+```
+
+Most tools also have [google colab notebooks](https://colab.research.google.com/).
+
 ## Tools
 
 + [Tangram](#Tangram)
@@ -26,13 +41,21 @@ For detailed documentation see the [project website](github.pages.link)
 
 <img src="./images/tangram.png" width="600px"></img>
 
+Blurb
+
 [Paper](https://www.nature.com/articles/s41592-021-01264-7)
 
 [Original repository](https://github.com/broadinstitute/Tangram)
 
 [Detailed documentation]()
 
-Blurb
+[Colab notebook]()
+
+###### Training model
+
+```python
+example code
+```
 
 ###### Voxel deconvolution with Tangram
 
