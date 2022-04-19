@@ -28,11 +28,11 @@ Most tools also have [google colab notebooks](https://colab.research.google.com/
 ## Tasks
 
 + Voxel (spot) deconvolution
-  + Tools: [Tangram](#Voxel-deconvolution-with-Tangram)
+  + Tools: [Tangram](#Tangram-usage)
 + Mapping single cell data to spatial coordinates
-  + Tools: [Tangram](#single-cell-mapping-with-Tangram) 
+  + Tools: [Tangram](#Tangram-usage)
 + Smoothing/imputation of spatial genomic data
-  + Tools: [Tangram](#smoothing-of-spatial-genomic-data-with-Tangram) 
+  + Tools: [Tangram](#Tangram-usage) 
 + Embedding single cell and spatial genomic data
 + Voxel-Voxel interactions
 + Cell-Cell interactions
@@ -51,25 +51,7 @@ Blurb
 
 [Colab notebook]()
 
-##### Model training
-
-```python
-example code
-```
-
-###### Voxel deconvolution with Tangram
-
-```python
-example code
-```
-
-###### Single cell mapping with Tangram
-
-```python
-example code
-```
-
-###### Smoothing of spatial genomic data with Tangram
+###### Tangram usage
 
 ```python
 example code
