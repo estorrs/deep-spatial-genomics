@@ -24,6 +24,8 @@ For detailed documentation see the [project website](github.pages.link)
 
 #### Tangram
 
+<img src="./images/tangram.png" width="600px"></img>
+
 [Paper](https://www.nature.com/articles/s41592-021-01264-7)
 
 [Original repository](https://github.com/broadinstitute/Tangram)
