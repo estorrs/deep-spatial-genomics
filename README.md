@@ -51,7 +51,7 @@ Blurb
 
 [Colab notebook]()
 
-###### Training model
+###### Model training
 
 ```python
 example code
