@@ -4,6 +4,8 @@ Pytorch implementations of deep learning methods for spatial genomic data.
 
 This project is intended to harmonize tasks for published methods and speed-up deep learning-based spatial genomics methods development.
 
+For detailed documentation see the [project website](github.pages.link)
+
 ## Tools
 
 + [Tangram](#Tangram)
@@ -48,9 +50,7 @@ example code
 example code
 ```
 
-###### Tangram citation
-
-Biancalani, T. et al. Deep learning and alignment of spatially resolved single-cell transcriptomes with Tangram. Nat. Methods 18, 1352–1362 (2021).
+## Citations
 
 ```bibtex
 @article{biancalani2021deep,
