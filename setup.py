@@ -1,9 +1,9 @@
 from setuptools import setup, find_packages
 
 setup(
-    name = 'deep_spatial_genomics',
+    name = 'deep-spatial-genomics',
     packages = find_packages(exclude=['examples']),
-    version = '0.0.1',
+    version = '0.0.2',
     license='MIT',
     description = 'Deep Spatial Genomics',
     author = 'Erik Storrs',
