@@ -1,3 +1,9 @@
+"""
+Copied from lucidrains implementation of x-unet
+
+https://github.com/lucidrains/x-unet/blob/main/x_unet/x_unet.py
+"""
+
 from functools import partial
 
 import math
