@@ -22,6 +22,9 @@ setup(
         'einops>=0.4.1',
         'torch>=1.10',
         'torchvision',
+        'tifffile',
+        'timm',
+        'imagecodecs',
         'scanpy'
     ],
     classifiers=[
