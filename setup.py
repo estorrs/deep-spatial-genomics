@@ -20,12 +20,13 @@ setup(
     ],
     install_requires=[
         'einops>=0.4.1',
-        'torch>=1.10',
-        'torchvision',
+        'imagecodecs',
+        'scanpy',
+        'scikit-image',
         'tifffile',
         'timm',
-        'imagecodecs',
-        'scanpy'
+        'torch>=1.10',
+        'torchvision',
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
