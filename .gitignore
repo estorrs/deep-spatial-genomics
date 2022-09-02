@@ -3,6 +3,9 @@ compute1/
 data/
 .Trash*
 *.swp
+.DS_Store
+._.DS_Store
+notebooks/core*
 
 
 # Byte-compiled / optimized / DLL files
