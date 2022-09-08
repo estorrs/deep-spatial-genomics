@@ -27,6 +27,7 @@ setup(
         'timm',
         'torch>=1.10',
         'torchvision',
+        'pytorch-lightning'
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
