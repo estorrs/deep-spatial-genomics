@@ -1,5 +1,7 @@
 # project specific
 data/
+logs/
+notebooks/lightning_logs/
 .Trash*
 *.swp
 .DS_Store
