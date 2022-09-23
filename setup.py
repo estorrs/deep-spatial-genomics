@@ -27,7 +27,9 @@ setup(
         'timm',
         'torch>=1.10',
         'torchvision',
-        'pytorch-lightning'
+        'pytorch-lightning',
+        'transformers',
+        'diffusers==0.3.0'
     ],
     classifiers=[
         'Development Status :: 4 - Beta',
