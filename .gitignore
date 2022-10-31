@@ -8,6 +8,8 @@ notebooks/lightning_logs/
 .DS_Store
 ._.DS_Store
 notebooks/core*
+error.txt
+out.txt
 
 
 # Byte-compiled / optimized / DLL files
