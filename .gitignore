@@ -10,6 +10,7 @@ notebooks/lightning_logs/
 notebooks/core*
 error.txt
 out.txt
+log.txt
 
 
 # Byte-compiled / optimized / DLL files
