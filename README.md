@@ -1,5 +1,7 @@
 # Deep Spatial Genomics
 
+**NOTE: now mostly serving as a template for website documentation and scratch space for random deep learning with spatial genomics data in pytorch projects**
+
 Pytorch implementations of deep learning methods for spatial genomic data.
 
 This project is intended to harmonize tasks for published methods and speed-up deep learning-based spatial genomics methods development.
